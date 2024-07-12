@@ -1,0 +1,25 @@
+.header {
+  background-color: aqua;
+  justify-content: center;
+  height: 60px;
+}
+
+.headerInfo {
+  margin-left: 100px;
+  justify-content: center;
+}
+
+.header img {
+  width: 50px;
+  float: right;
+  border-radius: 100px;
+  margin-right: 40px;
+  margin-top: 2px;
+}
+.header a{
+  /*Чтобы ничего не слиплось*/
+  display:inline-block;
+  margin:10px;
+
+}
+
